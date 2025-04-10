@@ -1,5 +1,5 @@
 script "Capitalistic Optimal Noms Script (Ultra Mega Edition)";
-notify "soolar the second";
+// notify "soolar the second";
 since r27775; // Hobopolis consumables all 1/day
 
 import <CONSUME/INFO.ash>
